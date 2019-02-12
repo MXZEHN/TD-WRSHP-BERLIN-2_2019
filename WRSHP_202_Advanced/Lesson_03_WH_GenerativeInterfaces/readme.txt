@@ -1,1 +1,2 @@
-to be filled by author
+Wieland Hilker
+Generative INterfaces with Widgets and a little Python 
